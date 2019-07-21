@@ -1,0 +1,8 @@
+1 
+git remote add origin https://github.com/jefersonknop/knopsistemas.git
+
+2 git add .
+
+3 git commit -m "meu commit"
+
+4 git push -u origin master
